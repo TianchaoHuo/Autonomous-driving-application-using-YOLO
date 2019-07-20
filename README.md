@@ -115,9 +115,9 @@ This is simply impplement the Yolo algorithm. For the future work, it is expecte
 
 ## References
 
-[1] Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi - You Only Look Once: Unified, Real-Time Object Detection (2015)
-[2] Joseph Redmon, Ali Farhadi - YOLO9000: Better, Faster, Stronger (2016)
-[3] Allan Zelener - YAD2K: Yet Another Darknet 2 Keras
-[4] The official YOLO website (https://pjreddie.com/darknet/yolo/)
-[5] How to build Yolo.h5, https://blog.csdn.net/Solo95/article/details/85262828
+[1] Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi - You Only Look Once: Unified, Real-Time Object Detection (2015)</br>
+[2] Joseph Redmon, Ali Farhadi - YOLO9000: Better, Faster, Stronger (2016)</br>
+[3] Allan Zelener - YAD2K: Yet Another Darknet 2 Keras</br>
+[4] The official YOLO website (https://pjreddie.com/darknet/yolo/)</br>
+[5] How to build Yolo.h5, https://blog.csdn.net/Solo95/article/details/85262828</br>
 [6] Andrew Ng, https://mooc.study.163.com/term/2001392030.htm
