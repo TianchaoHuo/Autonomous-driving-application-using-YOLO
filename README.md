@@ -103,10 +103,10 @@ you can refer to this [blog](https://blog.csdn.net/Solo95/article/details/852628
 We firstly and simply use one image to test the model as shown in the left below. And then the model will output the right below image drawing several bounding boxes and corresponding probability and classes.
 <div><img width=550 height=330  src ="Autonomous-driving-application-using-YOLO\test.jpg"><img width=550 height=330   src ="Autonomous-driving-application-using-YOLO\test_result.jpg"></div>
 
-And the visual demo looks like:
+And the visual demo you can go to this blog:
+https://tianchaohuo.github.io/2019/07/17/Autonomous-driving-application-using-YOLO/
 </br>
 
-<iframe width="700" height="500" src="//player.bilibili.com/player.html?aid=59559199&cid=103764069&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 
 ## Conclusions
